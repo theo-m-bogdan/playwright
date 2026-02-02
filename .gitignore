@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Playwright artifacts
+.playwright/
+playwright-report/
+test-results/
+
+# Environment / IDE
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Coverage / caches
+coverage/
+.cache/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
